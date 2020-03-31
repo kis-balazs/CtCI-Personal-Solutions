@@ -29,7 +29,7 @@ For use in case of need for any problem.
 	- Zero matrix
 	- String rotation
 
-- Linked Lists : 8 Problems
+- Linked Lists : 8 problems
 	- Remove duplicates
 	- Return kth to last
 	- Delete middle node
@@ -39,7 +39,7 @@ For use in case of need for any problem.
 	- Intersection
 	- Loop detection
 
-- Stacks and Queues : 6 Problems
+- Stacks and Queues : 6 problems
 	- Three in one
 	- Stack min
 	- Stack of plates
@@ -47,7 +47,7 @@ For use in case of need for any problem.
 	- Sort stacks
 	- Animal shelter
 
-- Trees and Graphs : 12 Problems
+- Trees and Graphs : 12 problems
 	- Route between Nodes
 	- Minimal Tree
 	- List of Depths
@@ -59,4 +59,7 @@ For use in case of need for any problem.
 	- BST Sequence
 	- Check Subtree
 	- Random Node
-	- TODO: Paths with Sum
+	- Paths with Sum
+	
+- Bit Manipulation: 8 problems
+	- Insertion

@@ -26,18 +26,37 @@ public class TreeNode {
 			right.parent = this;
 	}
 
+	// Q11 #6
 	public TreeNode getRandomNode() {
-		int lSize = left == null ? 0 : left.size();
+		int leftSize = left == null ? 0 : left.size();
 		Random random = new Random();
 		int index = random.nextInt(size);
-		if (index < lSize) {
+		if (index < leftSize)
 			return left.getRandomNode();
-		} else if (index == lSize) {
+		else if (index == leftSize)
 			return this;
-		} else
+		else
 			return right.getRandomNode();
 	}
-
+	
+	// Q11 #7
+	public TreeNode getRandomNode2() {
+		Random random = new Random();
+		int i = random.nextInt(size());
+		return this.getIthNode(i);
+		
+	}
+	
+	public TreeNode getIthNode(int i) {
+		int leftSize = left == null ? 0 : left.size();
+		if (i < leftSize)
+			return left.getIthNode(i);
+		else if (i == leftSize)
+			return this;
+		else
+			return right.getIthNode(i - (leftSize + 1));
+	}
+	
 	public void insertInOrder(int d) {
 		if (d <= data) {
 			if (left == null) {
