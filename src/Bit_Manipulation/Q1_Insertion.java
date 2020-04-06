@@ -6,12 +6,12 @@ public class Q1_Insertion {
 	// shift m so that it matches the cleared space and merge the n and m
 	public static int updateBits(int n, int m, int i, int j) {
 		int ones = ~0; // seq of 1s
+		//System.out.println(ones);
 		
 		// 1s before pos j, then 0s
 		int left = ones << (j + 1);
 		// 1s after pos i
 		int right = ((1 << i) - 1);
-		
 		// create mask
 		int mask = left | right;
 		
