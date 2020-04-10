@@ -63,3 +63,9 @@ For use in case of need for any problem.
 	
 - Bit Manipulation: 8 problems
 	- Insertion
+	- Binary to string
+	- Flip bit to win
+	- Next number
+	- Debugger
+	- Conversion
+	- Pairwise swap
