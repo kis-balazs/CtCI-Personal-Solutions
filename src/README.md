@@ -1,5 +1,3 @@
-https://github.com/careercup/CtCI-6th-Edition/tree/master/Java
-
 Each file has the chapter as package
 and the sub-chapter in which it was used as code, or was given as exercise,
 in the comment right after the package name. Name is the problem, type.
