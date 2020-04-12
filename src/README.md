@@ -18,7 +18,7 @@ For use in case of need for any problem.
 
 - Introduction : Appropriate Code Reuse, Modularity of the code
 ----------------------------------------------------------------------------
-- 1. Arrays_and_Strings : 9 problems
+1. Arrays_and_Strings : 9 problems
 	- Is unique
 	- Check permutation
 	- URLify
@@ -29,7 +29,7 @@ For use in case of need for any problem.
 	- Zero matrix
 	- String rotation
 
-- 2. Linked Lists : 8 problems
+2. Linked Lists : 8 problems
 	- Remove duplicates
 	- Return kth to last
 	- Delete middle node
@@ -39,7 +39,7 @@ For use in case of need for any problem.
 	- Intersection
 	- Loop detection
 
-- 3. Stacks and Queues : 6 problems
+3. Stacks and Queues : 6 problems
 	- Three in one
 	- Stack min
 	- Stack of plates
@@ -47,7 +47,7 @@ For use in case of need for any problem.
 	- Sort stacks
 	- Animal shelter
 
-- 4. Trees and Graphs : 12 problems
+4. Trees and Graphs : 12 problems
 	- Route between Nodes
 	- Minimal Tree
 	- List of Depths
@@ -61,7 +61,7 @@ For use in case of need for any problem.
 	- Random Node
 	- Paths with Sum
 	
-- 5. Bit Manipulation: 8 problems
+5. Bit Manipulation: 8 problems
 	- Insertion
 	- Binary to string
 	- Flip bit to win
@@ -71,5 +71,5 @@ For use in case of need for any problem.
 	- Pairwise swap
 	- Draw line
 
-- 6. Math and Logic puzzles: 10 problems
+6. Math and Logic puzzles: 10 problems
 	- 
