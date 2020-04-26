@@ -70,4 +70,4 @@ For use in case of need for any problem.
 	- Draw line
 
 6. Math and Logic puzzles: 10 problems
-	- coming next
+	- The heavy pill
